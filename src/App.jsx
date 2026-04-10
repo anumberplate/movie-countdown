@@ -85,7 +85,7 @@ function App() {
           <span>Time's up!</span>
         )}
       </div>
-      <p className="p-footer-text">Movie Releases on 27th July 2026</p>
+      <p className="p-footer-text">Movie Releases on 31st July 2026</p>
 
     </div>
   </section>
