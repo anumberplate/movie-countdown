@@ -169,7 +169,7 @@ span{
   display:flex;
   align-items: center;
   column-gap: 4px;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   margin: 0 auto;
 }
 
@@ -244,4 +244,16 @@ span{
     .details{
       padding:2rem 2rem;
     }
+
+    .location{
+      display: flex;
+      flex-direction: column;
+      row-gap: 10px;
+      margin-bottom: 2rem!important;
+    }
+    .location img {
+      width:30px;
+      height:30px;
+    }
+    
 }
